@@ -3,19 +3,19 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 个人博客
 subtitle:
 description:
 keywords:
-author: John Doe
+author: 小镇
 language: en
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://manjiz.com
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :year:month:day-:title/
 permalink_defaults:
 
 # Directory
@@ -79,3 +79,9 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+# --------------------------------------------------
+
+ext:
+  beian: 粤公网安备 44030602003971 号
+  icp: 粤ICP备15015987号-1
